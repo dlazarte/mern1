@@ -1,0 +1,28 @@
+{
+  "name": "mlm",
+  "version": "1.0.0",
+  "description": "desarrollo mern estuadiando",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlazarte/mlm.git"
+  },
+  "keywords": [
+    "noed",
+    "express",
+    "TS"
+  ],
+  "author": "@dlazarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlazarte/mlm/issues"
+  },
+  "homepage": "https://github.com/dlazarte/mlm#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3"
+  }
+}
