@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+    mlm:
+      build: 
+        context: .
+      volumes:
+          - .:/app
+      environment:
+          NODE_ENV: development
+      ports:
+          - "3001:3001"
+          
+          
